@@ -1,74 +1,26 @@
 {
   "project_info": {
-    "project_number": "942026136186",
-    "firebase_url": "https://sdp-job-portal-default-rtdb.firebaseio.com",
-    "project_id": "sdp-job-portal",
-    "storage_bucket": "sdp-job-portal.appspot.com"
+    "project_number": "440643487224",
+    "project_id": "job-portal-applilcation",
+    "storage_bucket": "job-portal-applilcation.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:942026136186:android:19555f02b61c81ad59b9c3",
+        "mobilesdk_app_id": "1:440643487224:android:9e7ea5309a6964566ac20d",
         "android_client_info": {
           "package_name": "com.example.jobportalcorporate"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "942026136186-uon43d4ecqqbsjf19q875pn53v2jjcud.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDzZZAyp4sOMPvgTiHrAU1lXJpwcXFVfGk"
+          "current_key": "AIzaSyBFynfzUV0usuwlSeNWDdLon85g4afuXMw"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "942026136186-uon43d4ecqqbsjf19q875pn53v2jjcud.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:942026136186:android:388de438e6c45ae559b9c3",
-        "android_client_info": {
-          "package_name": "com.example.jobportalemployee"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "942026136186-6gloiqnm317vob5kdomqvkhe1o0ma598.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.example.jobportalemployee",
-            "certificate_hash": "ab46483651cea31a0483b12e24defe73e98b0c46"
-          }
-        },
-        {
-          "client_id": "942026136186-uon43d4ecqqbsjf19q875pn53v2jjcud.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyDzZZAyp4sOMPvgTiHrAU1lXJpwcXFVfGk"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "942026136186-uon43d4ecqqbsjf19q875pn53v2jjcud.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "other_platform_oauth_client": []
         }
       }
     }
